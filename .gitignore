@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Pulumi state files and secrets
+*.pem
+*.json
+
+# Pulumi stack outputs and logs
+*.stack.yaml
+*.stack.json
+*.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python testing
+.pytest_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Scripts execution logs
+*.log
+
+# MacOS files
+.DS_Store
+
+# Docker files (if any accidentally created)
+docker-compose.override.yml
+
+# Misc
+*.bak
+*.old
