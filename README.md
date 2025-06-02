@@ -5,7 +5,6 @@
 [![Pytest](https://img.shields.io/badge/Pytest-Test%20Automation-orange?style=flat-square&logo=pytest)](https://docs.pytest.org/)
 [![Dotenv](https://img.shields.io/badge/Dotenv-Env%20Configuration-yellowgreen?style=flat-square&logo=python)](https://pypi.org/project/python-dotenv/)
 
-
 ---
 
 ## Descrição
