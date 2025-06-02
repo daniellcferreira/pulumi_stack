@@ -1,0 +1,10 @@
+name: pulumi-escola
+description: Projeto Pulumi em Python
+runtime:
+  name: python
+  options:
+    toolchain: pip
+    virtualenv: venv
+config:
+  backend_port: 8000
+  frontend_port: 8042
